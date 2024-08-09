@@ -1,0 +1,7 @@
+cookie:
+  expiry_days: 30
+  key: "abcdef"
+  name: "news_research_tool"
+
+preauthorized:
+  emails: []
